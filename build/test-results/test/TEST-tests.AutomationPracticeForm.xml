@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.AutomationPracticeForm" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-15T18:59:53" hostname="DESKTOP-H2VTUA6" time="51.962">
+  <properties/>
+  <testcase name="practiceFillFormTest()" classname="tests.AutomationPracticeForm" time="51.962"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.codeborne.selenide.impl.WebDriverThreadLocalContainer - No webdriver is bound to current thread: 1 - let's create a new webdriver
+[Test worker] INFO com.codeborne.selenide.impl.FileHelper - Creating folder: C:\Users\zero\IdeaProjects\aqa_8\build\downloads\1700074793146_3356_1
+[Test worker] INFO com.codeborne.selenide.webdriver.SelenideNettyClientFactory - Changed readTimeout from PT3M to PT1M30S
+[Test worker] INFO com.codeborne.selenide.webdriver.SelenideNettyClientFactory - Changed readTimeout from PT3M to PT1M30S
+нояб. 15, 2023 9:59:59 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 119, so returning the closest version found: 117
+[Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - BrowserName=msedge Version=119.0.2151.58 Platform=windows
+[Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - Selenide v. 6.19.0
+[Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - Selenium WebDriver v. 4.13.0 build revision: ba948ece5b*
+[Test worker] INFO com.codeborne.selenide.drivercommands.CreateDriverCommand - Created webdriver in thread 1: EdgeDriver -> EdgeDriver: msedge on windows (c032dfe079c6edac600030f035187217)
+[Test worker] INFO com.codeborne.selenide.drivercommands.DisposablesRegistry - Register WebDriverInstance[config=StaticConfig,webDriver=EdgeDriver: msedge on windows (c032dfe079c6edac600030f035187217),proxy=null,downloadsFolder=C:\Users\zero\IdeaProjects\aqa_8\build\downloads\1700074793146_3356_1] in 1 [size=1]
+[Test worker] INFO com.codeborne.selenide.drivercommands.DisposablesRegistry - Add shutdown hook in 1 [size=1]
+[Test worker] INFO com.codeborne.selenide.impl.WebDriverThreadLocalContainer - Browser will stay open due to holdBrowserOpen=true: 1 -> EdgeDriver: msedge on windows (c032dfe079c6edac600030f035187217)
+]]></system-err>
+</testsuite>
